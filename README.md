@@ -3,7 +3,7 @@
 
 - 👨‍💻 Todos mis proyectos están disponibles [Aquí](https://github.com/josemunozr)
 
-- 💬 Preguntame sobre **Javascript, Css, React, Angular, Frontend **
+- 💬 Preguntame sobre **Javascript, Css, Angular, React, Frontend **
 
 - 📫 Como contactarme **jozeepp@gmail.com**
 
